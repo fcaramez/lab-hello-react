@@ -1,7 +1,5 @@
 .App {
   text-align: center;
-  background-color: black;
-  color: white;
 }
 
 .App-logo {
@@ -58,4 +56,9 @@
 
 .main-text {
   text-align: left;
+}
+
+.backg {
+  background-color: black;
+  color: white;
 }

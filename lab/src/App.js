@@ -11,10 +11,12 @@ import SingleWay from "./Components/SingleWay/SingleWay";
 function App() {
   return (
     <div className="App">
-      <Logo />
-      <div className="main-text">
-        <MainText />
-        <Paragraph />
+      <div className="backg">
+        <Logo />
+        <div className="main-text">
+          <MainText />
+          <Paragraph />
+        </div>
       </div>
       <div className="images">
         <Declarative />
